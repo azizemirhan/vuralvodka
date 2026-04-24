@@ -4,7 +4,7 @@
 # Dağıtım: npx wrangler deploy
 # (İlk sefer: npx wrangler login)
 
-name = "vural-vodka"
+name = "vuralvodka"
 compatibility_date = "2025-10-15"
 
 # Statik site (proje kökünden ayrı; node_modules yüklenmez)
